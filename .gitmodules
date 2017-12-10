@@ -16,3 +16,6 @@
 [submodule "Extreme value analysis of huge datasets"]
 	path = Extreme value analysis of huge datasets
 	url = https://github.com/OGCJN/Extreme-value-analysis-of-huge-datasets.git
+[submodule "Efficient estimation of the number of false positives in high-throughput screening"]
+	path = Efficient estimation of the number of false positives in high-throughput screening
+	url = https://github.com/OGCJN/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.git
