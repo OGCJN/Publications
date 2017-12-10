@@ -19,3 +19,6 @@
 [submodule "Efficient estimation of the number of false positives in high-throughput screening"]
 	path = Efficient estimation of the number of false positives in high-throughput screening
 	url = https://github.com/OGCJN/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.git
+[submodule "Human life is unlimited - but short"]
+	path = Human life is unlimited - but short
+	url = https://github.com/OGCJN/Human-life-is-unlimited---but-short.git
