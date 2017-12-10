@@ -7,3 +7,6 @@
 [submodule "Extremes of Shepp statistics for Gaussian random walk"]
 	path = Extremes of Shepp statistics for Gaussian random walk
 	url = https://github.com/OGCJN/Extremes-of-Shepp-statistics-for-Gaussian-random-walk.git
+[submodule "Extremes of Shepp statistics for the Wiener process"]
+	path = Extremes of Shepp statistics for the Wiener process
+	url = https://github.com/OGCJN/Extremes-of-Shepp-statistics-for-the-Wiener-process.git
