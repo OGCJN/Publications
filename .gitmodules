@@ -10,9 +10,6 @@
 [submodule "Extremes of Shepp statistics for the Wiener process"]
 	path = Extremes of Shepp statistics for the Wiener process
 	url = https://github.com/OGCJN/Extremes-of-Shepp-statistics-for-the-Wiener-process.git
-[submodule "Tail approximations for the Student t-, F-, and Welch statistics for non-normal and not necessarily i.i.d. random variables"]
-	path = Tail approximations for the Student t-, F-, and Welch statistics for non-normal and not necessarily i.i.d. random variables
-	url = https://github.com/OGCJN/Tail-approximations-for-the-Student-t--F--and-Welch-statistics.git
 [submodule "Extreme value analysis of huge datasets"]
 	path = Extreme value analysis of huge datasets
 	url = https://github.com/OGCJN/Extreme-value-analysis-of-huge-datasets.git
@@ -22,3 +19,6 @@
 [submodule "Human life is unlimited - but short"]
 	path = Human life is unlimited - but short
 	url = https://github.com/OGCJN/Human-life-is-unlimited---but-short.git
+[submodule "Tail approximations for the Student t-, F-, and Welch statistics"]
+	path = Tail approximations for the Student t-, F-, and Welch statistics
+	url = https://github.com/OGCJN/Tail-approximations-for-the-Student-t--F--and-Welch-statistics.git
