@@ -3,7 +3,7 @@
 	url = https://github.com/OGCJN/On-the-limit-distribution-of-multiscale-test-statistics-for-nonparametric-curve-estimation.git
 [submodule "Tail estimation for window-censored processes"]
 	path = Tail estimation for window-censored processes
- 	url = https://github.com/OGCJN/Tail-estimation-for-window-censored-processes.git
+	url = https://github.com/OGCJN/Tail-estimation-for-window-censored-processes.git
 [submodule "Extremes of Shepp statistics for Gaussian random walk"]
 	path = Extremes of Shepp statistics for Gaussian random walk
 	url = https://github.com/OGCJN/Extremes-of-Shepp-statistics-for-Gaussian-random-walk.git
