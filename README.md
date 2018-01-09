@@ -1,7 +1,7 @@
 # Publications
 ## This repository contains supplementary materials for the following publications:
 
-* Rootzen, H. and Zholud, D. (2017). [**Human life is unlimited - but short**](http://www.zholud.com/articles/Human-life-is-unlimited-but-short.pdf), *Extremes*, Vol. 20, No. 4, pp. XX-XX
+* Rootzen, H. and Zholud, D. (2017). [**Human life is unlimited - but short**](http://www.zholud.com/articles/Human-life-is-unlimited-but-short.pdf), *Extremes*, Vol. 20, No. 4, pp. 713-728.
 
 * Rootzen, H. and Zholud, D. (2016). [**Tail Estimation for Window Censored Processes**](http://www.zholud.com/articles/Tail-estimation-for-window-censored-processes.pdf), *Technometrics*, Vol. 58, No. 1, pp. 95-103. 
 
