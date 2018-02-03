@@ -1,24 +1,24 @@
-[submodule "On the limit distribution of multiscale test statistics for nonparametric curve estimation"]
-	path = On the limit distribution of multiscale test statistics for nonparametric curve estimation
-	url = https://github.com/OGCJN/On-the-limit-distribution-of-multiscale-test-statistics-for-nonparametric-curve-estimation.git
+[submodule "Human life is unlimited - but short"]
+	path = Human life is unlimited - but short
+	url = https://github.com/OGCJN/Human-life-is-unlimited---but-short.git
 [submodule "Tail estimation for window-censored processes"]
 	path = Tail estimation for window-censored processes
-	url = https://github.com/OGCJN/Tail-estimation-for-window-censored-processes.git
+	url = https://github.com/OGCJN/Tail-estimation-for-window-censored-processes.git	
+[submodule "Efficient estimation of the number of false positives in high-throughput screening"]
+	path = Efficient estimation of the number of false positives in high-throughput screening
+	url = https://github.com/OGCJN/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.git
+[submodule "Tail approximations for the Student t-, F-, and Welch statistics"]
+	path = Tail approximations for the Student t-, F-, and Welch statistics
+	url = https://github.com/OGCJN/Tail-approximations-for-the-Student-t--F--and-Welch-statistics.git
+[submodule "Extreme value analysis of huge datasets"]
+	path = Extreme value analysis of huge datasets
+	url = https://github.com/OGCJN/Extreme-value-analysis-of-huge-datasets.git	
 [submodule "Extremes of Shepp statistics for Gaussian random walk"]
 	path = Extremes of Shepp statistics for Gaussian random walk
 	url = https://github.com/OGCJN/Extremes-of-Shepp-statistics-for-Gaussian-random-walk.git
 [submodule "Extremes of Shepp statistics for the Wiener process"]
 	path = Extremes of Shepp statistics for the Wiener process
-	url = https://github.com/OGCJN/Extremes-of-Shepp-statistics-for-the-Wiener-process.git
-[submodule "Extreme value analysis of huge datasets"]
-	path = Extreme value analysis of huge datasets
-	url = https://github.com/OGCJN/Extreme-value-analysis-of-huge-datasets.git
-[submodule "Efficient estimation of the number of false positives in high-throughput screening"]
-	path = Efficient estimation of the number of false positives in high-throughput screening
-	url = https://github.com/OGCJN/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.git
-[submodule "Human life is unlimited - but short"]
-	path = Human life is unlimited - but short
-	url = https://github.com/OGCJN/Human-life-is-unlimited---but-short.git
-[submodule "Tail approximations for the Student t-, F-, and Welch statistics"]
-	path = Tail approximations for the Student t-, F-, and Welch statistics
-	url = https://github.com/OGCJN/Tail-approximations-for-the-Student-t--F--and-Welch-statistics.git
+	url = https://github.com/OGCJN/Extremes-of-Shepp-statistics-for-the-Wiener-process.git	
+[submodule "On the limit distribution of multiscale test statistics for nonparametric curve estimation"]
+	path = On the limit distribution of multiscale test statistics for nonparametric curve estimation
+	url = https://github.com/OGCJN/On-the-limit-distribution-of-multiscale-test-statistics-for-nonparametric-curve-estimation.git
