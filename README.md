@@ -1,5 +1,5 @@
 # Publications
-## This repository contains supplementary materials for the following publications:
+## This repository contains the following publications and their supplementary materials:
 
 * Rootzen, H. and Zholud, D. (2017). [**Human life is unlimited - but short**](http://www.zholud.com/articles/Human-life-is-unlimited-but-short.pdf), *Extremes*, Vol. 20, No. 4, pp. 713-728.
 
