@@ -3,11 +3,11 @@
 
 * Rootzén, H. and Zholud, D. (2018). [**Rejoinder to discussion of the paper “Human life is unlimited – but short”**](http://www.zholud.com/articles/Rejoinder-to-discussion-of-the-paper-'Human-life-is-unlimited-but-short'.pdf), *Extremes*, Vol. 21, No. 2, pp. - to appear.
 
-* Rootzen, H. and Zholud, D. (2017). [**Human life is unlimited - but short**](http://www.zholud.com/articles/Human-life-is-unlimited-but-short.pdf), *Extremes*, Vol. 20, No. 4, pp. 713-728.
+* Rootzén, H. and Zholud, D. (2017). [**Human life is unlimited - but short**](http://www.zholud.com/articles/Human-life-is-unlimited-but-short.pdf), *Extremes*, Vol. 20, No. 4, pp. 713-728.
 
-* Rootzen, H. and Zholud, D. (2016). [**Tail Estimation for Window Censored Processes**](http://www.zholud.com/articles/Tail-estimation-for-window-censored-processes.pdf), *Technometrics*, Vol. 58, No. 1, pp. 95-103. 
+* Rootzén, H. and Zholud, D. (2016). [**Tail Estimation for Window Censored Processes**](http://www.zholud.com/articles/Tail-estimation-for-window-censored-processes.pdf), *Technometrics*, Vol. 58, No. 1, pp. 95-103. 
 
-* Rootzen, H. and Zholud, D., (2015). [**Efficient estimation of the number of false positives in high-throughput screening**](http://www.zholud.com/articles/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.pdf), *Biometrika*, Vol. 102, No. 3, pp. 695-704. 
+* Rootzén, H. and Zholud, D., (2015). [**Efficient estimation of the number of false positives in high-throughput screening**](http://www.zholud.com/articles/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.pdf), *Biometrika*, Vol. 102, No. 3, pp. 695-704. 
 
 * Zholud, D. (2014). [**Tail approximations for the Student t-, F-, and Welch statistics for non-normal and not necessarily i.i.d. random variables**](http://www.zholud.com/articles/Tail-approximations-for-the-Student-t-,-F-,-and-Welch-statistics-for-non-normal-and-not-necessarily-i.i.d.-random-variables.pdf), *Bernoulli*, Vol. 20, No. 4, pp. 2102-2130.
 
