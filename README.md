@@ -1,7 +1,7 @@
 # Publications
 ## This repository contains the following publications and their supplementary materials:
 
-* Rootzén, H. and Zholud, D. (2018). [**Rejoinder to discussion of the paper “Human life is unlimited – but short”**](http://www.zholud.com/articles/Rejoinder-to-discussion-of-the-paper-'Human-life-is-unlimited-but-short'.pdf), *Extremes*, Vol. 21, No. 2, pp. - to appear.
+* Rootzén, H. and Zholud, D. (2018). [**Rejoinder to discussion of the paper “Human life is unlimited – but short”**](http://www.zholud.com/articles/Rejoinder-to-discussion-of-the-paper-'Human-life-is-unlimited-but-short'.pdf), *Extremes*, Vol. 21, No. 3, pp. 415-424.
 
 * Rootzén, H. and Zholud, D. (2017). [**Human life is unlimited - but short**](http://www.zholud.com/articles/Human-life-is-unlimited-but-short.pdf), *Extremes*, Vol. 20, No. 4, pp. 713-728.
 
