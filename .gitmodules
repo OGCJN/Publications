@@ -28,3 +28,6 @@
 [submodule "Is there a cap on longevity - a statistical review"]
 	path = Is there a cap on longevity - a statistical review
 	url = https://github.com/OGCJN/Is-there-a-cap-on-longevity.git
+[submodule "Human mortality at extreme age"]
+	path = Human mortality at extreme age
+	url = https://github.com/OGCJN/Human-mortality-at-extreme-age.git
