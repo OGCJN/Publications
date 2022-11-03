@@ -1,6 +1,10 @@
 # Publications
 ## This repository contains the following publications and their supplementary materials:
 
+* Léo R. Belzile, Anthony C. Davison, Jutta Gampe, Holger Rootzén, and Dmitrii Zholud (2022). [**Is there a cap on longevity - a statistical review**](https://doi.org/10.1146/annurev-statistics-040120-025426), *Annual Review of Statistics and Its Application*, Vol. 9, No. 1, pp. 21-45.
+
+* Léo R. Belzile, Anthony C. Davison, Holger Rootzén and Dmitrii Zholud (2021). [**Human mortality at extreme age**](https://doi.org/10.1098/rsos.202097), *Royal Society open science*, Vol. 8, No. 9, pp. 202097.
+
 * Rootzén, H. and Zholud, D. (2018). [**Rejoinder to discussion of the paper “Human life is unlimited – but short”**](http://www.zholud.com/articles/Rejoinder-to-discussion-of-the-paper-'Human-life-is-unlimited-but-short'.pdf), *Extremes*, Vol. 21, No. 3, pp. 415-424.
 
 * Rootzén, H. and Zholud, D. (2017). [**Human life is unlimited - but short**](http://www.zholud.com/articles/Human-life-is-unlimited-but-short.pdf), *Extremes*, Vol. 20, No. 4, pp. 713-728.
